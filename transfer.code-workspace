@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "name": "Root",
+      "path": ".",
+    },
+    {
+      "path": "./server",
+    },
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+  },
+}

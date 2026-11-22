@@ -1,0 +1,6 @@
+{
+  "go.toolsManagement.autoUpdate": true,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  }
+}
